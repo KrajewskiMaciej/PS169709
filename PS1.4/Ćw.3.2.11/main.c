@@ -8,6 +8,8 @@ int *zmien(unsigned int n)
 
 int main()
 {
-    printf("%d.",zmien(8));
+    printf("%d.",zmien(32));
     return 0;
 }
+
+

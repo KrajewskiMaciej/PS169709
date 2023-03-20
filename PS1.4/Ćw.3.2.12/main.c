@@ -3,8 +3,7 @@
 
 int *zmien(unsigned int n)
 {
-    double blok = malloc(n*sizeof(float));
-    return *blok;
+    return (float*)malloc(n);
 }
 
 int main()
