@@ -3,7 +3,7 @@
 
 int *zmien(unsigned int n)
 {
-    return (float*)malloc(n);
+    return (double*)malloc(n);
 }
 
 int main()
