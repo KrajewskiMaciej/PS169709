@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681724906 source:d:\repozytoria\programy strukturalne\ps1.6\Æw.5.2.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

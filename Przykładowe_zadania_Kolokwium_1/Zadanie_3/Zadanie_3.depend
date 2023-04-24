@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682319093 source:d:\repozytoria\programy_strukturalne\przyk³adowe_zadania_kolokwium_1\zadanie_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
