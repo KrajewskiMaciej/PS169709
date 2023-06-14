@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686767282 source:d:\repozytoria\programy_strukturalne\przyk³adowe egzaminy\zestaw_22.zad_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
